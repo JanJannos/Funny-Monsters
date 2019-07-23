@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Funny-Monsters/static/css/main.9c165cf8.chunk.css",
+    "main.js": "/Funny-Monsters/static/js/main.63bb71ad.chunk.js",
+    "main.js.map": "/Funny-Monsters/static/js/main.63bb71ad.chunk.js.map",
+    "runtime~main.js": "/Funny-Monsters/static/js/runtime~main.649906c2.js",
+    "runtime~main.js.map": "/Funny-Monsters/static/js/runtime~main.649906c2.js.map",
+    "static/js/2.4e81ba5b.chunk.js": "/Funny-Monsters/static/js/2.4e81ba5b.chunk.js",
+    "static/js/2.4e81ba5b.chunk.js.map": "/Funny-Monsters/static/js/2.4e81ba5b.chunk.js.map",
+    "index.html": "/Funny-Monsters/index.html",
+    "precache-manifest.041b20a5d9e67fd07f06af52c7bb5ca6.js": "/Funny-Monsters/precache-manifest.041b20a5d9e67fd07f06af52c7bb5ca6.js",
+    "service-worker.js": "/Funny-Monsters/service-worker.js",
+    "static/css/main.9c165cf8.chunk.css.map": "/Funny-Monsters/static/css/main.9c165cf8.chunk.css.map",
+    "static/media/logo.svg": "/Funny-Monsters/static/media/logo.5d5d9eef.svg"
+  }
+}
